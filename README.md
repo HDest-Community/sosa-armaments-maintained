@@ -1,6 +1,6 @@
 # SoSA Armaments, Maintained
 
-_Requires [BulletLib - Recasted](https://github.com/HDest-Community/HDBulletLib-Recasted), by the HDest Community._
+_Requires [HDCoreLib](https://github.com/HDest-Community/hdest-core-lib), and [BulletLib - Recasted](https://github.com/HDest-Community/HDBulletLib-Recasted), by the HDest Community._
 
 This mod aims to collect and maintain the weapons made by Popguy12.
 
