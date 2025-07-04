@@ -1,0 +1,11 @@
+// SoSA-450 "Mauler" Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "JackMaulerRandom", "weight": "3.25", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HDJackMaulerMag", "weight": "0.65625", "persists": "true" }
+
+// SoSA-45A1 "Nora.45R1" Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "SoSA45A1Random", "weight": "2.5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "PistolReplaces", "name": "SoSA45A1Random", "weight": "1.5", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "ClipReplaces", "name": "HD45ACPMag", "weight": "3.3203125", "persists": "true" }
+
+// Ammo Usages
+addAmmoUser => { "ammoName": "HDShellAmmo", "name": "HDJackMauler" }
