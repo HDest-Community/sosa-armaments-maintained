@@ -1,0 +1,15 @@
+$random weapons/nora4gashoot1	{weapons/shoot1a weapons/shoot1b weapons/shoot1c weapons/shoot1d}
+weapons/shoot1a PUMPSHT1
+weapons/shoot1b PUMPSHT2
+weapons/shoot1c PUMPSHT3
+weapons/shoot1d PUMPSHT4
+
+$random weapons/nora4gashoot2	{weapons/shoot2a weapons/shoot2b weapons/shoot2c weapons/shoot2d}
+weapons/shoot2a SHOTFIR1
+weapons/shoot2b SHOTFIR2
+weapons/shoot2c SHOTFIR3
+weapons/shoot2d SHOTFIR4
+
+weapons/nora4gaback PUMPBACK
+weapons/nora4gaforward PUMPFRNT
+weapons/nora4gafull PUMPFULL

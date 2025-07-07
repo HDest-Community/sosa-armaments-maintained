@@ -1,3 +1,7 @@
+// SoSA-4ga MPSS Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "Nora4GASpawn", "weight": "0.625", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "Nora4GASpawn", "weight": "1.6953125", "persists": "true" }
+
 // SoSA-450 "Mauler" Spawn Entries
 addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "JackMaulerRandom", "weight": "3.25", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipBoxReplaces", "name": "HDJackMaulerMag", "weight": "0.65625", "persists": "true" }
@@ -7,5 +11,9 @@ addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "SoSA45A1R
 addSpawnTableSingleEntry => { "tableName": "PistolReplaces", "name": "SoSA45A1Random", "weight": "1.5", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "ClipReplaces", "name": "HD45ACPMag", "weight": "3.3203125", "persists": "true" }
 
+
 // Ammo Usages
 addAmmoUser => { "ammoName": "HDShellAmmo", "name": "HDJackMauler" }
+
+addAmmoUser => { "ammoName": "HD4GBAmmo", "name": "HD4GBBlaster" }
+addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HD4GBBlaster" }
