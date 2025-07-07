@@ -432,7 +432,7 @@ class HD4GBBlaster:HDShotgun{
 		}
 		NR4G A 0 A_Light0();
 		NR4G A 1;
-		goto chamberauto;
+		goto chamberauto; // [UZ] The 4GA always re-chambers, this is intended behavior.
 	chamberauto:
 		NR4G A 1 A_Chamber();
 		NR4G A 1;
