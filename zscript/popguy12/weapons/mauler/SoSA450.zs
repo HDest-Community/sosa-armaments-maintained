@@ -537,7 +537,7 @@ class HDJackMaulerMag : HDMagAmmo
 		ItemsThatUseThis.Push("HDJackMauler");
 	}
 
-	const MagCapacity = 100;
+	const MagCapacity = 50;
 	const EncMagEmpty = 40;
 	const EncMagLoaded = EncMagEmpty * 1;
 
@@ -550,7 +550,7 @@ class HDJackMaulerMag : HDMagAmmo
 		HDMagAmmo.RoundBulk ENC_SHELLLOADED;
 		HDMagAmmo.MagBulk EncMagEmpty;
 		Tag "'Mauler' magazine";
-		Inventory.PickupMessage "Picked up a 100-round 'Mauler' magazine.";
+		Inventory.PickupMessage "Picked up a 50-round 'Mauler' magazine.";
 		HDPickup.RefId "jmb";
 		Scale 1.2;
 	}
