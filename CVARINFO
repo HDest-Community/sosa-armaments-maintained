@@ -1,0 +1,6 @@
+// Merchant Store Entries
+server bool hdm_enable_jackmauler = true;
+server bool hdm_enable_mpss       = true;
+server bool hdm_enable_nora       = true;
+server bool hdm_enable_maulermag  = true;
+server bool hdm_enable_noramag    = true;

@@ -1,0 +1,21 @@
+[enu default]
+
+MERCH_CAT_JACKMAULER = "SoSA Armaments";
+MERCH_TAG_JACKMAULER = "SoSA450 'Jack Mauler' 12ga HMG";
+MERCH_FLAVOR_JACKMAULER = "";
+
+MERCH_CAT_JACKMAULERMAG = "SoSA Armaments";
+MERCH_TAG_JACKMAULERMAG = "'Jack Mauler' 12ga Drum Magazine";
+MERCH_FLAVOR_JACKMAULERMAG = "";
+
+MERCH_CAT_MPSS = "SoSA Armaments";
+MERCH_TAG_MPSS = "00-4 Multi-Purpose Squad Shotgun";
+MERCH_FLAVOR_MPSS = "";
+
+MERCH_CAT_NORA = "SoSA Armaments";
+MERCH_TAG_NORA = "SoSA45A1 'Nora' Revision 1";
+MERCH_FLAVOR_NORA = "";
+
+MERCH_CAT_NORAMAG = "SoSA Armaments";
+MERCH_TAG_NORAMAG = "'Nora' .45 ACP Magazine";
+MERCH_FLAVOR_NORAMAG = "";

@@ -17,3 +17,12 @@ addAmmoUser => { "ammoName": "HDShellAmmo", "name": "HDJackMauler" }
 
 addAmmoUser => { "ammoName": "HD4GBAmmo", "name": "HD4GBBlaster" }
 addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HD4GBBlaster" }
+
+
+// Merchant Store Entries
+newMerchantStoreItem => { "enabled": "#hdm_enable_jackmauler", "type": "weapon", "category": "$MERCH_CAT_JACKMAULER", "item": "HDJackMauler", "icon": "JMWGY0", "displayName": "$MERCH_TAG_JACKMAULER", "basePrice": "1500", "flavorText": "$MERCH_FLAVOR_JACKMAULER" }
+newMerchantStoreItem => { "enabled": "#hdm_enable_mpss", "type": "weapon", "category": "$MERCH_CAT_MPSS", "item": "HD4GBBlaster", "icon": "N4PSA0", "displayName": "$MERCH_TAG_MPSS", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_MPSS" }
+newMerchantStoreItem => { "enabled": "#hdm_enable_nora", "type": "weapon", "category": "$MERCH_CAT_NORA", "item": "SoSA45A1", "icon": "P3STA0", "displayName": "$MERCH_TAG_NORA", "basePrice": "360", "flavorText": "$MERCH_FLAVOR_NORA" }
+
+newMerchantStoreItem => { "enabled": "#hdm_enable_maulermag", "type": "mag", "category": "$MERCH_CAT_JACKMAULERMAG", "item": "HDJackMaulerMag", "icon": "JMMGA0", "displayName": "$MERCH_TAG_JACKMAULERMAG", "basePrice": "1000", "flavorText": "$MERCH_FLAVOR_JACKMAULERMAG" }
+newMerchantStoreItem => { "enabled": "#hdm_enable_noramag", "type": "mag", "category": "$MERCH_CAT_NORAMAG", "item": "HD45ACPMag", "icon": "45MGC0", "displayName": "$MERCH_TAG_NORAMAG", "basePrice": "14", "flavorText": "$MERCH_FLAVOR_NORAMAG" }
